@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-NO_MERCURY",
+  "name": "NO MERCURY · NM1",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦NO MERCURY · NM1:no-mercury:a498fe⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "a498fedd5bb12b52d2d0f6ec3e665589f10f49d6f333eb0c839785a375ddec7a",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
